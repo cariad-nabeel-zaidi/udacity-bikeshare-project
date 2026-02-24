@@ -3,7 +3,7 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+This is the bikeshare starter project which i got from udacity for practicing and completing git and github as part of the Introduction to Version Control course on 24 Feb 2026.
 
 ## Information about how to use your project
 
