@@ -69,9 +69,7 @@ def station_stats(df):
 
     # display most commonly used start station
 
-
     # display most commonly used end station
-
 
     # display most frequent combination of start station and end station trip
 
