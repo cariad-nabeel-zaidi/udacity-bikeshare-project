@@ -52,9 +52,7 @@ def time_stats(df):
 
     # display the most common month
 
-
     # display the most common day of week
-
 
     # display the most common start hour
 
